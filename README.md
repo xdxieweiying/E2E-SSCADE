@@ -1,4 +1,4 @@
-# End-to-End-Spectral-Spatial-Cooperative-Autoencoding-Density-Estimation-Model
+# End-to-End Spectral-Spatial Cooperative Autoencoding Density Estimation Model
 **Abstract：** <br />
 
 
